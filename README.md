@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibrahim Alrudayan</h1>
+<h3 align="center">Aspiring Data Scientist</h3>
 
-<!--
-**ibrahimalrudayan/ibrahimalrudayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about data analysis, machine learning, and building intelligent solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Data Science  
+- 📊 Interested in Machine Learning & Deep Learning  
+- 💡 I enjoy solving real-world problems using data  
+ 
+
+---
+
+### 🧠 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+- Python  
+- Machine Learning  
+- Deep Learning  
+- SQL  
+
+---
+
+### 📫 Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-alrudayan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ibrahimalrudayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+### 🚀 Projects
+> Projects will be added soon...
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimalrudayan&show_icons=true&theme=default" />
+</p>

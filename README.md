@@ -39,10 +39,6 @@
 
 ---
 
-### 🚀 Projects
-> Projects will be added soon...
-
----
 
 ### 📊 GitHub Stats
 <p align="center">

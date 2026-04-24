@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Alrudayan</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Data Science</h3>
 
 <p align="center">
   Passionate about data analysis, machine learning, and building intelligent solutions.
